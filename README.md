@@ -1,6 +1,9 @@
 # ChronoWatch-X2040
 I created the ChronoWatch X2040 — a custom watch powered by the Raspberry Pi RP2040 microcontroller. It features a round display and a specially designed 3D-printed case, making it comfortable to wear on the wrist like a real everyday watch.
 
+
+_________________________________
+Full Code : https://ko-fi.com/s/90fdcc233f
 _________________________________
 buy me a coffee! ☕: [https://github.com/vishalsoniindia/BuyMeCoffee](https://github.com/vishalsoniindia/BuyMeCoffee)
 _________________________________
