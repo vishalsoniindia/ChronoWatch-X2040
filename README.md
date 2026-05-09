@@ -5,7 +5,7 @@ I created the ChronoWatch X2040 — a custom watch powered by the Raspberry Pi R
 _________________________________
 Full Code : https://ko-fi.com/s/90fdcc233f
 _________________________________
-buy me a coffee! ☕: [https://github.com/vishalsoniindia/BuyMeCoffee](https://github.com/vishalsoniindia/BuyMeCoffee)
+buy me a coffee! ☕: https://vishalsoniindia.github.io/BuyMeCoffee/BuyMeCoffee.html
 _________________________________
 Youtube : [https://youtu.be/j7pUc8dI9x4](https://youtu.be/j7pUc8dI9x4)
 _________________________________
